@@ -1,0 +1,13 @@
+name: CustomDiscs
+version: ${version}
+main: me.Navoei.customdiscsplugin.CustomDiscs
+api-version: ${bukkit_api_version}
+prefix: CustomDiscs
+authors: [ "Navoei", "NikSne" ]
+description: Плагин, который использует Simple Voice Chat API  для добавления кастомных пластинок. Переведено NikSne на русский язык
+depend: [ voicechat, ProtocolLib ]
+
+commands:
+  customdisc:
+    description: Основная команда плагина
+    aliases: cd
