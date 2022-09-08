@@ -11,7 +11,7 @@
 * Сообщения плагина в консоли стали цветными
 * Комментарии в файле [`config.yml`](https://github.com/NiKSneMC/CustomDiscs/blob/main/src/main/resources/config.yml) переведены на русский язык
 * Изменено сообщение об успешной загрузке плагина (p.s в оригинале была просто строчка `Successfully registered CustomDiscs plugin` белым цветом)
-  ![image](https://user-images.githubusercontent.com/111704048/186025569-e668624b-5439-449e-9560-02f7fef73de2.png)
+![image](https://user-images.githubusercontent.com/88781618/189207919-86ce54be-28ad-40f8-9db4-0d1057438cdc.png)
 * Имена плагина в `/pl` (и аналогах этой команды) и папки плагина изменены на `CustomDiscs_Translated`
 
 Оригинал
