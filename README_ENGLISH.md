@@ -11,7 +11,7 @@ What has been changed?
 * Plugin messages in the console have become colored
 * Comments in the file [`config.yml`](https://github.com/NikSneMC/CustomDiscs/blob/main/src/main/resources/config.yml ) translated into Russian
 * Changed the message about the successful loading of the plugin (p.s in the original there was just a line `Successfully registered CustomDiscs plugin` in white)
-  ![image](https://user-images.githubusercontent.com/111704048/186025569-e668624b-5439-449e-9560-02f7fef73de2.png )
+![image](https://user-images.githubusercontent.com/88781618/189207874-b318a632-4819-4d95-8c18-19230634cea3.png)
 * Plugin names in `/pl` (and analogues of this command) and plugin folders have been changed to `CustomDiscs_Translated`
 
 The original
